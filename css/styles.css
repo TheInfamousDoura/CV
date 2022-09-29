@@ -1,0 +1,21 @@
+body{
+    background-color: #eaf6f6;
+}
+hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 7px;
+}
+h1, h3, a{
+    color: #66bf66;
+}
+img{
+    width: 80%;
+    height: 70%;
+    border-radius: 100px;
+}
+#personalInfo{
+    text-align: center;
+}
